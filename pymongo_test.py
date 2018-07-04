@@ -15,7 +15,3 @@ try:
     print(document_extracted)
 except Exception as error:
   print(error)
-
-
-
-
